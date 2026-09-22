@@ -48,6 +48,7 @@ Generate random numbers, roll dice, or flip a coin — all through a clean and i
 (<img width="828" height="408" alt="image" src="https://github.com/user-attachments/assets/7d5b84b3-b3fd-483d-bea9-518c222ccbf3" />
 )
 
+Deploy 🚀 : https://random-generator-app.streamlit.app/
 
 ## 📂 Project Structure
 
@@ -99,7 +100,11 @@ The application provides three generators from a single dashboard:
 🏆 Score and challenge system
 📱 Improved mobile responsiveness
 🎨 Additional themes
+
+Deploy Link 🚀 : https://random-generator-app.streamlit.app/
+
 👨‍💻 Author
+
 
 Karthik Reddy / KarthikReddy1971
 
